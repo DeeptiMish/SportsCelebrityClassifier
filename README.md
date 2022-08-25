@@ -28,6 +28,13 @@ In this data science and machine learning project, we classify sports personalit
 
 
 
+
+
+
+
+
+
+
 Here is the folder structure,
 
 
@@ -43,6 +50,15 @@ model: Contains python notebook for model building
 google_image_scrapping: code to scrap google for images
 
 images_dataset: Dataset used for our model training
+
+
+
+
+
+
+
+
+
 
 
 
