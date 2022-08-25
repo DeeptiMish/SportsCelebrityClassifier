@@ -1,0 +1,4 @@
+flask==2.2.2
+scikit-learn==0.24.1
+opencv-python==4.6.0.66
+Pywavelets==1.3.0
